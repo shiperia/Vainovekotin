@@ -5,6 +5,8 @@
 #include <cmath>
 #include <valarray>
 
+// 24.10.2022 Okei, en tiedä miksi nämä kaksi puuttuivat hubista. mielestäni commitoin nämä silloin pari viikkoa sitten?
+
 using namespace std;
 
 // En ruvennut keksimään pyörää uudelleen niin valmiista esimerkistä mukaillen
